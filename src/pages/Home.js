@@ -11,9 +11,9 @@ function Home() {
         <h2>Hi, I'm sri</h2>
         <div className='prompt'>
           <p>A software developer with a passion for learning and creating.</p>
-          <a target='_blank' href='https://www.linkedin.com/in/srikrishnakothuru/'><LinkedInIcon /></a>
-          <a target='_blank' href='mailto:srikrishnak.dev@gmail.com'><EmailIcon /></a>
-          <a target='_blank' href='https://github.com/srikrishnak-dev'><GithubIcon /></a>
+          <a target='_blank' href='https://www.linkedin.com/in/srikrishnakothuru/' rel="noreferrer"><LinkedInIcon /></a>
+          <a target='_blank' href='mailto:srikrishnak.dev@gmail.com' rel="noreferrer"><EmailIcon /></a>
+          <a target='_blank' href='https://github.com/srikrishnak-dev' rel="noreferrer"><GithubIcon /></a>
         </div>
       </div>
       <div className='skills'>
